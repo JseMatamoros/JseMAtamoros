@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm José</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm José, a dedicated full stack Python developer with a profound passion for programming. Since 2020, I've been constantly studying and honing my skills to create web projects. Feel free to explore my works! 😄🚀</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm José, an enthusiastic full stack Python developer who is just getting started on this exciting journey of programming. Since 2020, I've been dedicated to studying and honing my skills to create web projects. I'm thrilled to grow and learn every day! Feel free to explore my works. 😄🚀</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsematamoros&label=Profile%20views&color=0e75b6&style=flat" alt="jsematamoros" /> </p>
 
