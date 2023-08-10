@@ -54,16 +54,18 @@
 
 ###
 
-<h2>Puedes revisar este video donde solo muestro un prototipo creado en Django por mi</h2>
-
+<h2>Check out this video where I showcase a prototype I created in Django in just 2 minutes 😄🚀.</h2>
 
 [![Alt text](https://img.youtube.com/vi/XsDAcZ_0LII/0.jpg)](https://www.youtube.com/watch?v=XsDAcZ_0LII)
 
-
 <h3>
-  El prototipo funciona con una BD hecha en PostgreSQL, usando Django y Python para manipular algunas plantillas html.<br>
-  Basicamente es un CRUD, funcionando con el sistema de autenticacion de usuario predeterminado de Django.
+  The prototype is powered by a PostgreSQL database, using Django and Python to manipulate some HTML templates.<br>
+  Essentially, it's a CRUD application, functioning with Django's default user authentication system. <br>
+
+  Find the code on GitHub: https://github.com/JseMatamoros/vehiculos.git
+  <br>
 </h3>
+
 
 
 ###
