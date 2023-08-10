@@ -37,6 +37,20 @@
 
 ###
 
+<h2>Check out this video where I showcase a prototype I created in Django in just 2 minutes 😄🚀.</h2>
+
+[![Alt text](https://img.youtube.com/vi/XsDAcZ_0LII/0.jpg)](https://www.youtube.com/watch?v=XsDAcZ_0LII)
+
+<h3>
+  The prototype is powered by a PostgreSQL database, using Django and Python to manipulate some HTML templates.<br>
+  Essentially, it's a CRUD application, functioning with Django's default user authentication system. <br>
+
+  Find the code on GitHub: https://github.com/JseMatamoros/vehiculos.git
+  <br>
+</h3>
+
+###
+
 <div align="left">
   <a href="https://www.instagram.com/josematamoros916/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -51,21 +65,5 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
-
-###
-
-<h2>Check out this video where I showcase a prototype I created in Django in just 2 minutes 😄🚀.</h2>
-
-[![Alt text](https://img.youtube.com/vi/XsDAcZ_0LII/0.jpg)](https://www.youtube.com/watch?v=XsDAcZ_0LII)
-
-<h3>
-  The prototype is powered by a PostgreSQL database, using Django and Python to manipulate some HTML templates.<br>
-  Essentially, it's a CRUD application, functioning with Django's default user authentication system. <br>
-
-  Find the code on GitHub: https://github.com/JseMatamoros/vehiculos.git
-  <br>
-</h3>
-
-
 
 ###
