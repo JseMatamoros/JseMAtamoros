@@ -56,9 +56,9 @@
 
 <h2>Videos Destacados</h2>
 
-<div align="center">
-  [![Alt text](https://img.youtube.com/vi/d49-ZJQidbA/0.jpg)](https://www.youtube.com/watch?v=d49-ZJQidbA)
-</div>
+
+[![Alt text](https://img.youtube.com/vi/d49-ZJQidbA/0.jpg)](https://www.youtube.com/watch?v=d49-ZJQidbA)
+
 
 <h3>Este es el comienzo de una serie de videos. Si te interesa practicar HTML junto conmigo, te invito a seguir mi canal en YouTube.</h3>
 
