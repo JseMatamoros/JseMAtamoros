@@ -1,10 +1,9 @@
 <h2 align="left">Hi 👋, I'm José.<br><br>Welcome to my GitHub profile! I'm José, an enthusiastic full stack Python developer who is just getting started on this exciting journey of programming. Since 2020, I've been dedicated to studying and honing my skills to create web projects. I'm thrilled to grow and learn every day! Feel free to explore my works. 😄🚀<br><br>- 🌱 I’m currently learning React, Django, Python API's courses<br>- 👨‍💻 All of my projects are available at https://jsematamoros.github.io/Portfolio_JoseCCM/</h2>
 
-
 ###
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=JseMatamoros&count_private=true&show_icons=true&hide=stars,prs,issues,contribs" />
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JseMatamoros"  />
 </div>
 
 ###
