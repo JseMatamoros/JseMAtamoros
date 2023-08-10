@@ -9,6 +9,12 @@
 ###
 
 <div align="left">
+    <img src="https://github-readme-stats.vercel.app/api?username=JseMatamoros&count_private=true&show_icons=true&hide=stars,prs,issues,contribs" />
+</div>
+
+###
+
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
