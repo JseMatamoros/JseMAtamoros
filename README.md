@@ -54,13 +54,16 @@
 
 ###
 
-<h2>Videos Destacados</h2>
+<h2>Puedes revisar este video donde solo muestro un prototipo creado en Django por mi</h2>
 
 
-[![Alt text](https://img.youtube.com/vi/d49-ZJQidbA/0.jpg)](https://www.youtube.com/watch?v=d49-ZJQidbA)
+[![Alt text](https://img.youtube.com/vi/XsDAcZ_0LII/0.jpg)](https://www.youtube.com/watch?v=XsDAcZ_0LII)
 
 
-<h3>Este es el comienzo de una serie de videos. Si te interesa practicar HTML junto conmigo, te invito a seguir mi canal en YouTube.</h3>
+<h3>
+  El prototipo funciona con una BD hecha en PostgreSQL, usando Django y Python para manipular algunas plantillas html.<br>
+  Basicamente es un CRUD, funcionando con el sistema de autenticacion de usuario predeterminado de Django.
+</h3>
 
 
 ###
