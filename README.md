@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/JseMatamoros/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=JseMatamoros"  />
 </div>
 
 ###
